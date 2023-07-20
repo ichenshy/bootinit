@@ -3,7 +3,7 @@ package com.chen.project.constant;
 /**
  * 用户常量
  *
- * @author yupi
+ * @author CSY
  */
 public interface UserConstant {
 

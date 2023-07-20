@@ -3,7 +3,7 @@ package com.chen.project.common;
 /**
  * 错误码
  *
- * @author yupi
+ * @author CSY
  */
 public enum ErrorCode {
 
